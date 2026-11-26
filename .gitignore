@@ -1,0 +1,9 @@
+news-image-20261126-kit/
+kit.tar.gz
+transcripts.tar.gz
+muse-usage.jsonl
+out/
+*.log
+panels/
+compose.py
+transcript.md
